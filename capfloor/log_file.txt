@@ -1,0 +1,10 @@
+Monte Carlo simulation started: 
+Mon Dec 31 16:46:04 2018
+
+Notional = 100
+Counterparty Credit Rating = 4
+At t=0:
+ CapFloor value = 6.35635
+ CVA value = 0.138596
+Monte Carlo simulation terminated: 
+Mon Dec 31 16:46:06 2018

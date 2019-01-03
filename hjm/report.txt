@@ -1,0 +1,39 @@
+Calibration run
+Started: 01_January_2019_09_17_22_PM
+Data length: 252 days
+Days per year: 252
+Confidence level: 0.99
+Number of Monte-Carlo scenarios: 1000
+Penalty weight: 10
+Currency A file: gbp_2001_2018.in
+Iteration step size: 1
+Terminating limit: 1e-06
+Convergence check period: 10
+Number of object function calculations: 100
+Constraints A:
+   1.0000   1.2000
+   0.5000   1.1000
+   0.0500   0.3500
+   0.0050   0.0100
+   0.0080   0.0150
+   0.0040   0.0150
+        0   0.4000
+        0   0.6000
+  -0.7070        0
+   0.0050   0.0200
+
+A starting point:
+	kappa0	kappa1	kappa2	sigma0	sigma1	sigma2 rho01	rho02	rho 12	theta:
+   1.0000   0.9000   0.2000   0.0090   0.0100   0.0050   0.2000   0.5000  -0.5000   0.0150
+
+Starting F(x) = -2.97315
+
+A Optimal point:
+	kappa0	kappa1	kappa2	sigma0	sigma1	sigma2 rho01	rho02	rho 12	theta:
+   1.1991   0.9919   0.2827   0.0040   0.0050   0.0029   0.2182   0.2740  -0.4740   0.0102
+
+Return code IFAULT = 2
+Resulting  F(x*) = -3.15707
+  Number of obj fn evaluations = 112
+Number of restarts =   1
+Ended: 01_January_2019_11_49_01_PM

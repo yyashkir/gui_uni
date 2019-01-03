@@ -1,0 +1,47 @@
+1
+100
+6
+1
+0.05
+365
+0.95
+1000
+4
+0.02
+yield_base.in
+hjm_base.in
+yield_quoted.in
+hjm_quoted.in
+credit_spreads.in
+recovery_rates.in
+vol_surface.in
+out_data.csv
+1
+
+	Legend:
+type (1 for cap, -1 for floor)
+notional
+number of periods
+period
+time_step
+days_year
+confidence_level;
+number_M_C
+counterparty_credit_rating   0....7
+strike rate
+yield_curve_file base
+hjm_base_file
+yield_curve_quoted_file
+hjm_quoted_file
+credit_spreads_file
+recovery_rates_file
+vol_surface.in
+out_file
+show_graph;	 //   = 0 (no graph), =1 (one graph only), >1 (all graphs)
+
+
+
+
+
+
+

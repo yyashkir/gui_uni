@@ -1,0 +1,17 @@
+**/.vs
+**.idea
+**.capfloor
+**.hjm
+*.pyproj
+help
+*.bat
+*.vbs
+**/x64
+*.sln
+*.vcxproj
+gbp*
+eur*
+*.user
+*.bak
+plotcommand
+*.png
