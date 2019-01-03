@@ -1,5 +1,4 @@
 # gui_uni
-# gui_uni
 //place in the same directory:
 	gui_uni.py
 
