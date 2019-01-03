@@ -1,7 +1,7 @@
 **/.vs
 **.idea
-**.capfloor
-**.hjm
+**/.capfloor
+**/.hjm
 *.pyproj
 help
 *.bat
